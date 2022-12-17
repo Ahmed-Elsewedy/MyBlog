@@ -50,6 +50,7 @@ body {
 .link2:hover {
     cursor: pointer;
     color: rgb(54, 183, 231);
+        text-decoration: underline;
 }
 
 #ul {
